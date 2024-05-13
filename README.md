@@ -20,7 +20,6 @@ Community organizations
 Technologies :
 
 Programming language (e.g. Python)
-Web framework 
 Database (e.g. MySQL)
 
 Benefits:
